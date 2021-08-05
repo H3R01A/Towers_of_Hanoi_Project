@@ -1,5 +1,7 @@
 from stack import Stack
 
+#Below code is for Hanoi game
+
 print("\nLet's play Towers of Hanoi!!")
 
 #Create the Stacks
